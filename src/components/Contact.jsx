@@ -59,7 +59,7 @@ import {
                       href="mailto:hello@gmail.com"
                       className="text-muted-foreground hover:text-primary transition-colors"
                     >
-                      ishanpaharia@gmail.com
+                      ishan@gmail.com
                     </a>
                   </div>
                 </div>
